@@ -1,1 +1,4 @@
 makefile
+ascon.exe
+ascon
+src/main.o
